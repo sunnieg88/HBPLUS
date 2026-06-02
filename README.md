@@ -23,10 +23,9 @@ To install, download the following files:
 <UL>
   <LI><B>hbplus.tar.gz</B> - HBPLUS source code for linux/mac
   <LI><B>winhbplus.zip</B> - compiled code for Windows
-  <LI><B>install.html</B> - installation instructions
-  <LI><B>manual.html</B> - operating manual
+  <LI><B>docs.tar.gz</B> - documentation
 </UL>
 
-Then follow the instructions in <B>install.html</B>.
+Extract all the files from <B>docs.tar.gz</B>, and either <B>hbplus.tar.gz</B> or <B>winhbplus.zip</B>, as appropriate. Then follow the instructions in <B>install.html</B> (from the extracted <B>docs.tar.gz</B> file).
 
   
